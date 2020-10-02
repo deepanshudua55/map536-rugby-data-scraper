@@ -1,4 +1,4 @@
-# Rugby data scraper
+# Rugby data scraper( an amazing work)
 
 This repository provides [Scrapy](scrapy.org) spiders to crawl rugby match/team/players data from the [espnscrum.com](espnscrum.com)
 
